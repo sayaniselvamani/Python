@@ -1,0 +1,86 @@
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21				
+	I	n	f	o	r	m	a	t	i	o	n	_	t	e	c	h	n	o	l	o	g	y				
+	-22	-21	-20	-19	-18	-17	-16	-15	-14	-13	-12	-11	-10	-9	-8	-7	-6	-5	-4	-3	-2	-1				
+[-2:0:-1]	golonhcet_noitamrofn																									
+#[5:-5:5]	mnh																									
+#[-5:5:-5]	ott																									
+#[5:-5:-5]	empty																									
+#[3:9:-1]	empty																									
+#[9:-10:-2]	empty																									
+#[2:-4:-4]	empty																									
+#[-4:2:-2]	lnctniar																									
+#[0:-1:-3]	empty																									
+#[-3:3:6]	empty																									
+#[::-3]	ylhtoaol																									
+#[::-2]	yoohe_otmon																									
+#[2:-2:-2]	empty																									
+#[2:-2:2]	fraintcnl																									
+#[5:-5:5]	mnh																									
+#[3:-3:3]	oaothl																									
+#[::2]	lfraintcnlg																									
+#[::-5]	yn_an																									
+																										
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26
+p	y	t	h	o	n	_	i	s	_	u	s	i	n	g	_	i	n	t	e	r	p	r	e	t	e	r
+-27	-26	-25	-24	-23	-22	-21	-20	-19	-18	-17	-16	-15	-14	-13	-12	-11	-10	-9	-8	-7	-6	-5	-4	-3	-2	-1
+#[-2:0:-1]	eterpretni_gnisu_si_nohty																									
+#[5:-5:5]	nu_r																									
+#[-5:5:-5]	rnii																									
+#[5:-5:-5]	empty																									
+#[3:9:-1]	empty																									
+#[9:-10:-2]	empty																									
+#[2:-4:-4]	empty																									
+#[-4:2:-2]	epen_ns_inh																									
+#[0:-1:-3]	empty																									
+#[-3:3:6]	empty																									
+#[::-3]	rerngssnt																									
+#[::-2]	rtrrtigius_otp																									
+#[2:-2:-2]	empty																									
+#[2:-2:2]	to_suigitrrt																									
+#[5:-5:5]	_u_r																									
+#[3:-3:3]	h__i_tp																									
+#[::2]	pto_suigitrrtr																									
+#[::-5]	rpis_y																									
+																										
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15											
+c	o	m	p	u	t	e	r		s	c	i	e	n	c	e											
+-16	-15	-14	-13	-12	-11	-10	-9	-8	-7	-6	-5	-4	-3	-2	-1											
+																										
+print(a[-10:10:3])	es																									
+print(a[-5:-1:1])	ienc																									
+print(a[-8:-2:10])	empty																									
+print(a[5::3])	t ic																									
+print(a[:5:2])	cmu																									
+print(a[10:14:2])	ce																									
+print(a[-10:-3:3])	ese																									
+print(a[5:12:5])	tc																									
+print(a[3:-3:3])	pese																									
+print(a[-5:-3:20])	i																									
+																										
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21					
+I	n	f	o	r	m	a	t	i	o	n	_	t	e	c	h	n	o	l	o	g	y					
+-22	-21	-20	-19	-18	-17	-16	-15	-14	-13	-12	-11	-10	-9	-8	-7	-6	-5	-4	-3	-2	-1					
+print(a[-10:10:3])	empty																									
+print(a[-5:-1:1])	olog																									
+print(a[-8:-2:10])	c																									
+print(a[5::3])	mi_cog																									
+print(a[:5:2])	lfr																									
+print(a[10:14:2])	nt																									
+print(a[-10:-3:3])	thl																									
+print(a[5:12:5])	mn																									
+print(a[3:-3:3])	oaothl																									
+print(a[-5:-3:20])	o																									
+																										
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20						
+g	o	o	g	l	e	_	c	h	r	o	m	e	_	b	r	o	w	s	e	r						
+-21	-20	-19	-18	-17	-16	-15	-14	-13	-12	-11	-10	-9	-8	-7	-6	-5	-4	-3	-2	-1						
+print(a[-10:10:3])	empty																									
+print(a[-5:-1:1])	owse																									
+print(a[-8:-2:10])	_																									
+print(a[5::3])	ehmbwr																									
+print(a[:5:2])	gol																									
+print(a[10:14:2])	oe																									
+print(a[-10:-3:3])	mbw																									
+print(a[5:12:5])	eo																									
+print(a[3:-3:3])	g_rer																									
+print(a[-5:-3:20])	o																									
